@@ -43,4 +43,4 @@ try:
     x.index(y)
     print("You have enter the correct name")
 except ValueError:
-    print("you have enter the wront name, keep gusing")
+    print("you have enter the wrong name, keep guessing")
